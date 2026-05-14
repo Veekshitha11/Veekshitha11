@@ -8,7 +8,7 @@ I'm a CS student starting my open-source journey.
 
 
 ### Tech I'm comfortable with
-- Java
+- Java,Javascript
 - Python
 - Git & GitHub
 
